@@ -6,7 +6,7 @@
 First attempt on Golang
 Simple Telegram bot that provides responses to user buttons via buttions.
 
----
+
 
 ## Настройка / Setting up
 
