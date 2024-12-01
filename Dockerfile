@@ -6,7 +6,7 @@ COPY . .
 RUN ls -l
 
 FROM alpine:latest
-#В TOKEN вписывается токен телеграм бота
+#В TOKEN вписывается токен телеграм бота / Insert your Telegram bot tokeb in TOKEN
 ENV TOKEN= 
 COPY --from=build /app .
 
