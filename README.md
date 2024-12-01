@@ -3,7 +3,7 @@
 Первый опыт работы с Golang.
 Простой Телеграм бот с выдачей ответов на действия пользователей через кнопки.
 
-First attempt on Golang
+First attempt on Golang.
 Simple Telegram bot that provides responses to user buttons via buttions.
 
 
